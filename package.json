@@ -1,0 +1,22 @@
+{
+  "name": "voteme-node",
+  "version": "1.0.0",
+  "description": "this the live node server",
+  "main": "notification.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavishya-singh/voteme-node.git"
+  },
+  "author": "bhavishya singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhavishya-singh/voteme-node/issues"
+  },
+  "homepage": "https://github.com/bhavishya-singh/voteme-node#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
